@@ -29,5 +29,7 @@ yarn start
 
 5. Após o yarn start, será feito perguntas para configurar o otmizador, se não quiser configura-lo e marcar não para perguntas, irá usar as config padrão que está no .env
 
+6. Por fim se tiver deixado na pastas padrões, as imagens originais estão em "origin" (Pasta origem) e as otimizadas estão em "dest" (Pasta destino).
+
 ## Considerações finais
   Este código é apenas um protótipo/teste.

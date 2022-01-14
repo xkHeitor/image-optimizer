@@ -1,6 +1,6 @@
 # Image optimizer
 
-Este código premite comprimir/otimizar imagens sem perder a qualidade, utilizando a biblioteca [sharp](https://github.com/lovell/sharp).
+Este código permite comprimir/otimizar imagens sem perder a qualidade, utilizando a biblioteca [sharp](https://github.com/lovell/sharp).
 
 ## Como utilizar
 
